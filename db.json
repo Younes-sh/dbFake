@@ -1,0 +1,115 @@
+{
+    "Tablet": [
+        {
+            "id": 41,
+            "Brand":"SAMSUNG",
+            "NameModel":"galaxy tab a9+",
+            "CellularTechnology":"",
+            "MemoryStorage":"64 GB",
+            "RAMmemory":"4 GB",
+            "Price": 203.99,
+            "imageBrand":"https://m.media-amazon.com/images/I/61wuqGBsFhL._AC_SX522_.jpg",
+            "Description":"Samsung Galaxy Tab A9+ Android Tablet, 64GB Storage, 11\" Large Screen, WiFi, 3D Sound, Silver (French Version)"
+        },
+        {
+            "id": 42,
+            "Brand":"Blackview",
+            "NameModel":"Blackview tab 10 wifi",
+            "CellularTechnology":"",
+            "MemoryStorage":"256 GB",
+            "RAMmemory":"16 GB",
+            "Price": 139.99,
+            "imageBrand":"ttps://m.media-amazon.com/images/I/71kVdFuO8+L._AC_SY300_SX300_.jpg",
+            "Description":"Blackview Android 13 Tablet 10.1 Inch, Tab 10 WiFi Tablets 16(8+8) GB RAM+256GB ROM (2TB TF), Octa-core/7680mAh/13MP+5MP/Widevine L1/5G WiFi/2 Years Warranty, Touch Tablet with Stylus - Blue"
+        },
+        {
+            "id": 43,
+            "Brand":"weelikeit",
+            "NameModel":"MA1019",
+            "CellularTechnology":"",
+            "MemoryStorage":"128 GB",
+            "RAMmemory":"6 GB",
+            "Price": 99.99,
+            "imageBrand":"https://m.media-amazon.com/images/I/71WEbd2siaL._AC_SX522_.jpg",
+            "Description":"weelikeit 2023 Latest 10 inch Android 12 Tablet, 6GB RAM 128GB ROM Memory with 8 Core Processor, 6000mAh Battery, 1280*800 HD Touch Screen, Dual Camera, Wi-Fi, Bluetooth 5.0, GMS"
+        },
+        {
+            "id": 44,
+            "Brand":"CWOWDEFU",
+            "NameModel":"Children's Tablet with WiFi - Green",
+            "CellularTechnology":"",
+            "MemoryStorage":"32 GB",
+            "RAMmemory":"2 GB",
+            "Price": 55.99,
+            "imageBrand":"https://m.media-amazon.com/images/I/71T9yEmMWUL._AC_SX522_.jpg",
+            "Description":"Kids Touch Tablet 7 inch Android 11 Tablet 32GB Storage Tablet Kids with wifi Tablet Kids (Green)"
+        },
+        {
+            "id": 45,
+            "Brand":"Samsung",
+            "NameModel":"galaxy tab s9 fe",
+            "CellularTechnology":"",
+            "MemoryStorage":"256 GB",
+            "RAMmemory":"8 GB",
+            "Price": 485.00,
+            "imageBrand":"https://m.media-amazon.com/images/I/61Qac0YD4SL._AC_SX522_.jpg",
+            "Description":"Samsung Galaxy Tab S9 FE Tablet, 10.9 Inches Wifi 256GB, S Pen Included, Long Life Battery, IP 68 Certification, Anthracite, FR Version"
+        },
+        {
+            "id": 46,
+            "Brand":"Apple",
+            "NameModel":"iPad 10,9‑inch 2022",
+            "CellularTechnology":"64 GB",
+            "MemoryStorage":"",
+            "RAMmemory":"8 GB",
+            "Price": 433.00,
+            "imageBrand":"https://m.media-amazon.com/images/I/61FUEXIELzL._AC_SX679_.jpg",
+            "Description":"Apple 2022 10,9‑inch iPad (Wi-Fi, 64 GB) - blauw (10e generatie)"
+        },
+        {
+            "id": 47,
+            "Brand":"VASOUN",
+            "NameModel":"TAB16",
+            "CellularTechnology":"",
+            "MemoryStorage":"256 GB",
+            "RAMmemory":"4 GB",
+            "Price": 274.38,
+            "imageBrand":"https://m.media-amazon.com/images/I/71g-VbVvinL._AC_SX679_.jpg",
+            "Description":"VASOUN Tablette Android 13 de 12 pouces, 2k FHD+, 16 Go de RAM (8 Go + 8 Go d'extension), 256 Go de ROM, 4G LTE 5G Dual WiFi, Octa-Core, double caméra 5 MP + 13 MP, batterie 8000 mAh, divertissement"
+        },
+        {
+            "id": 48,
+            "Brand":"Blackview",
+            "NameModel":"TAB 15PRO Grey",
+            "CellularTechnology":"",
+            "MemoryStorage":"256 GB",
+            "RAMmemory":"8 GB",
+            "Price": 239.99,
+            "imageBrand":"https://m.media-amazon.com/images/I/51bPzwd9BJL._AC_SX522_.jpg",
+            "Description":"Blackview Tab 15 Pro 10.5\" FHD+ Screen Android 12 Tablet, 14GB+256GB (1TB External) 7.3mm Thickness & 8280mAh Battery, Dual SIM 4G LTE+WiFi, 13MP+8MP Camera, Quad Box Stereo Speaker, GPS Grey"
+        },
+        {
+            "id": 49,
+            "Brand":"Xiaomi",
+            "NameModel":"Pad 6 Tablet",
+            "CellularTechnology":"",
+            "MemoryStorage":"256 GB",
+            "RAMmemory":"8 GB",
+            "Price": 349.00,
+            "imageBrand":"https://m.media-amazon.com/images/I/51R1dzTm2sL._AC_SX679_.jpg",
+            "Description":"Xiaomi Pad 6 256GB Gravity Gray 27.94cm (11\") LCD Display, Android 13, 13 MP Kamera"
+        },
+        {
+            "id": 50,
+            "Brand":"Samsung",
+            "NameModel":"galaxy tab s9 fe",
+            "CellularTechnology":"",
+            "MemoryStorage":"256 GB",
+            "RAMmemory":"8 GB",
+            "Price": 529,
+            "imageBrand":"https://m.media-amazon.com/images/I/61YTMZHEDzL._AC_SX522_.jpg",
+            "Description":"Samsung Galaxy Tab S9 FE Tablet, 10.9 Inches Wifi 256GB, S Pen Included, Long Life Battery, IP 68 Certification, Lavender, FR Version"
+        }
+    ]
+    
+}
